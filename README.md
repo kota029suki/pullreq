@@ -1,2 +1,1 @@
-# pullreq
-練習用のリポジトリ
+# Hello, Pull Request
